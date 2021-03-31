@@ -20,6 +20,8 @@ For further details refer to the [Cypress installation guide]((https://docs.cypr
 npm run cypress:open
 ````
 
+The IDE will open and two tests are listed. Run the tests by clicking the name.
+
 ### Run all tests
 
 ```
