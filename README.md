@@ -8,8 +8,9 @@
 
 ### Install
 
-Clone the github repo and run npm install:
+Clone the github repo (branch master) and run npm install:
 ```
+git clone --branch master git@github.com:basdewachter/cy-nnip.git nnip-test
 npm install
 ```
 For further details refer to the [Cypress installation guide]((https://docs.cypress.io/guides/getting-started/installing-cypress)).
